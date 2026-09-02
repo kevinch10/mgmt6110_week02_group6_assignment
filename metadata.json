@@ -1,0 +1,7 @@
+{
+  "name": "JD Sports Singapore",
+  "description": "High-contrast athletic footwear, streetwear clothing, and trending sneaker collections from JD Sports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
